@@ -1,4 +1,4 @@
-# Poryecto Equipo 3
+# Proyecto Equipo 3
 
 A new Flutter project.
 
